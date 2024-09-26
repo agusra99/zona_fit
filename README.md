@@ -17,3 +17,4 @@ psycopg2               2.9.9
 Werkzeug               3.0.4
 WTForms                3.1.2
 También se necesitará la instalación del archivo "zona_fit_db.sql" en la base de datos correspondiente
+Los archivos con terminación ".html" tendrán que ser ubicados en una carpeta denominada Templates
